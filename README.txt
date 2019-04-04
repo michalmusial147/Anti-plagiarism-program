@@ -1,0 +1,1 @@
+Program calclates vector product of 2 text files and shows %similarity
